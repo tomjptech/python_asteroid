@@ -5,8 +5,8 @@ If you want to create venv like I did. You would need these files and run this c
 
 python3 -m venv venv
 
-#Activate it
+#Activate it\n
 source venv/bin/activate
 
-#And you also need to install the requirements from the txt file
+#And you also need to install the requirements from the txt file\n
 pip install -r requirements.txt 
